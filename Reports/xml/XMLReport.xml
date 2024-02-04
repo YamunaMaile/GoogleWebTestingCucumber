@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="10.499" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="SalesForce login" name=" - Example #1.1" time="10.336">
+<system-out><![CDATA[
+Given User is on Chrome browser.............................................passed
+Then User is able to enter sales force login URL............................passed
+And user click on enter button..............................................passed
+Given User is on sales force login page.....................................passed
+When User enter testing and usernmpass123...................................passed
+And Click on forgot password link...........................................passed
+Then user is navigate to Forgot password page...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
